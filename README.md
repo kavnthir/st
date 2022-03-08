@@ -1,6 +1,6 @@
 # st
 
-fork of st
+basically just lukes build
 
 ## Bindings
 
